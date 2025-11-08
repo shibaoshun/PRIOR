@@ -25,7 +25,9 @@
 ---
 **Network Architecture:**  
 ![Network Architecture](https://github.com/shibaoshun/PRIOR/blob/main/fig/Proms-Net.jpg?raw=true)
-![Network Architecture](https://github.com/shibaoshun/PRIOR/blob/main/fig/PRIOR.jpg?raw=true)
+
+
+<img src="https://github.com/shibaoshun/PRIOR/blob/main/fig/PRIOR.jpg?raw=true" width="80%" />
 
 **Reconstruction Results:**  
 ![Reconstruction Results](https://github.com/shibaoshun/PRIOR/blob/main/fig/SVCT.jpg?raw=true)
@@ -139,7 +141,7 @@ python main.py --phase test
 
 ## 📈 Results
 
-PromptCT achieves **superior reconstruction quality** with significantly **lower storage costs**, enabling **multiple sparse-view CT reconstruction in a single model**.
+PRIOR achieves **superior reconstruction quality** with significantly **lower storage costs**.
 
 | Method    | PSNR (dB) ↑ | SSIM ↑ | RMSE ↑ | Storage ↓  |
 |:----------|:-----------:|--------|:------:|:----------:|
