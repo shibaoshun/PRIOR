@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>Baoshun Shi, Xinya Ji, Ke Jiang, Huazhu Fu</strong><br>
-  <em>NN 2025 (Under Review)</em>
+  <em>NN 2026 (Under Review)</em>
 </p>
 
 
