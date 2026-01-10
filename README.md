@@ -1,9 +1,9 @@
 
-<h1 align="center">🌀 Multi-Scale Network with Provable Lipschitz Continuity for Universal CT Reconstruction</h1>
+<h1 align="center">🌀 Provable Lipschitz Continuity Network for Universal CT Reconstruction</h1>
 
 <p align="center">
   <strong>Baoshun Shi, Xinya Ji, Ke Jiang, Huazhu Fu</strong><br>
-  <em>PR 2025 (Under Review)</em>
+  <em>NN 2025 (Under Review)</em>
 </p>
 
 
